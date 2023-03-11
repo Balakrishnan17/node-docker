@@ -14,4 +14,4 @@ Step 3 - Run below comment in terminal of this project root directory to create 
 
 Step 4 - Open below url to access node
 
-`http://localhost:3300`
+[Node](http://localhost:3300)
